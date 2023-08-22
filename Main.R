@@ -198,7 +198,7 @@ uploadResultsCallback <- function(jobContext) {
 
 }
 
-createResultsSchemaCallback <- function(jobContext) {
+createDataModelSchema <- function(jobContext) {
   connectionDetails <- jobContext$moduleExecutionSettings$resultsConnectionDetails
   moduleInfo <- ParallelLogger::loadSettingsFromJson("MetaData.json")
   tablePrefix <- moduleInfo$TablePrefix
