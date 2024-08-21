@@ -80,9 +80,14 @@
     },
     "DatabaseConnector": {
       "Package": "DatabaseConnector",
-      "Version": "6.2.4",
-      "Source": "Repository",
-      "Repository": "CRAN",
+      "Version": "6.3.2",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "DatabaseConnector",
+      "RemoteUsername": "ohdsi",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "bee58a314996123b59e08bd489bf712e14391c4f",
       "Requirements": [
         "DBI",
         "R",
@@ -99,7 +104,7 @@
         "urltools",
         "utils"
       ],
-      "Hash": "115822c1e0acd6b602a414d1226d1a3b"
+      "Hash": "480622082901a360780915bbe6b03e71"
     },
     "Eunomia": {
       "Package": "Eunomia",
