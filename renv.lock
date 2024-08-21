@@ -162,14 +162,14 @@
     },
     "PatientLevelPrediction": {
       "Package": "PatientLevelPrediction",
-      "Version": "6.3.6",
+      "Version": "6.3.9",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "OHDSI",
       "RemoteRepo": "PatientLevelPrediction",
-      "RemoteRef": "v6.3.6",
-      "RemoteSha": "7a55c31de7e9a49290c3c35e172962440c70b8a8"
+      "RemoteRef": "v6.3.9",
+      "RemoteSha": "1dfc46bb55265f6620049e1ebf9e5018b6a98cf3"
     },
     "R6": {
       "Package": "R6",
